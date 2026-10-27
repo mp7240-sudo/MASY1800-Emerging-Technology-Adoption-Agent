@@ -19,3 +19,7 @@ Received October 27, 2026 as a user-pasted response. Saved unchanged as response
 ## Revision to v0.2
 
 Archived original configuration and packets in records/version_0_1/. Added current-action prerequisite rules and runtime field discipline. Original case files and fixed evidence retained. Updated prompt packets generated; revised primary and contrast runs are pending.
+
+## Primary v0.2 retest
+
+Received October 27, 2026 as a user-pasted response; saved unchanged as responses/primary_response_v2.json. Original validator PASSED; core INTACT. Model label and fresh-conversation/browsing conditions were not independently observed. Review in primary_retest_v2.md records clearer current-stage categorization and no observed development-workflow leakage. Cross-context correction is not yet established; contrast_1 v0.2 remains pending.
