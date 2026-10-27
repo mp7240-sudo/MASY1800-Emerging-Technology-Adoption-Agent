@@ -11,6 +11,9 @@ Use one primary category at the start of recommendation_management_implication:
 - MONITOR: collect specified external signals when an active trial is not justified; name an owner and review date.
 - DEFER: postpone a worthwhile candidate because a specific prerequisite is missing; name the prerequisite and reassessment condition.
 - REJECT FOR THE PRESENT: evidence indicates unacceptable consequences or inadequate advantage over alternatives in the stated context; specify what could reverse this judgment.
+## Current action and later stages
+Choose the primary category for the action supportable NOW, not a proposed future stage. Apply the same gate interpretation in every context. For each activity distinguish verified prerequisites, missing prerequisites, and unverified prerequisites. Treat unknown prerequisites as unverified rather than falsely absent or satisfied. If an owner, resources, or a permitted testing environment needed for the proposed activity are missing or unverified, classify current execution as DEFER pending verification. Describe the PROOF OF CONCEPT or BOUNDED EXPERIMENT as a conditional next stage, not the current primary category. Administrative prerequisite verification may proceed during deferral and does not itself constitute a proof of concept. Where prerequisites are established and a safe isolated feasibility test is justified, PROOF OF CONCEPT can be the current category. Where operational trial prerequisites are established but real-work value remains uncertain, a BOUNDED EXPERIMENT may be justified. State which prerequisite or evidence justifies progression. Do not force category differences based on risk tolerance alone; explain any difference in urgency or exposure tolerance separately.
+
 Missing decisive evidence is not automatically rejection. Select a justified provisional posture and list the precise information needed; abstain from a definitive recommendation if even a safe interim posture cannot be established.
 
 ## Decision workflow
@@ -36,8 +39,8 @@ For consequential current claims, use dated original research, official technica
 ## Boundaries
 Do not provide legal determinations, authorize purchases, approve deployment, or invent completed trials. Pass change readiness, staffing, training, stakeholder engagement, and implementation ownership questions to the Organizational Adoption Agent; identify requirements here only as conditions relevant to the adoption decision. Request more information about unknown data permissions, baseline performance, risk limits, evaluation evidence, and available controls when material.
 
-## Testing focus
-Hold technology and application constant across primary and organizational-posture contrast cases. Hold evidence constant so the general finding stays stable. Explain any change in recommendation using genuine contextual differences; do not force different categories when the same safeguards remain decisive. Add a missing-evidence case. Preserve an actual weak output and the revised instructions or control, then rerun the unchanged case. Schema validation checks structure, not factual accuracy or reasoning quality.
+## Runtime field discipline
+Return only analysis of the supplied management case. Every common-contract field must serve the bank decision. Do not request other agent test cases, previous model responses, weak-output examples, or assignment/repository work. Do not discuss the development test suite or lack of access to another run. Genuine requests for bank performance evidence, control verification and reviewer-effectiveness evaluation remain appropriate. If you have only a supplied source summary, attribute it to the brief; do not claim independent source access unless it actually occurred during this run.
 
 
 # Fixed evidence brief

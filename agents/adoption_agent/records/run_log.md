@@ -11,3 +11,11 @@
 - Actual local checks: original basic validator PASSED; frozen-core checker INTACT.
 - Review: records/primary_review_v1.md. Actual semantic weakness identified: development/testing requests leaked into management-facing fields.
 - Contrast runs and revised primary retest: pending; no outcomes claimed.
+
+## Contrast 1 v0.1
+
+Received October 27, 2026 as a user-pasted response. Saved unchanged as responses/contrast_1_response_v1.json. Original basic validator PASSED. Model identity, fresh-conversation conditions and browsing were not independently observed. Review in contrast_1_review_v1.md identifies category inconsistency and continued developer-workflow leakage.
+
+## Revision to v0.2
+
+Archived original configuration and packets in records/version_0_1/. Added current-action prerequisite rules and runtime field discipline. Original case files and fixed evidence retained. Updated prompt packets generated; revised primary and contrast runs are pending.
