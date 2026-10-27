@@ -13,7 +13,7 @@
 
 ## Remaining GitHub step
 
-The private repository exists at https://github.com/mp7240-sudo/MASY1800-Emerging-Technology-Adoption-Agent . Upload has not been verified. In GitHub Desktop select this local repository and branch assignment-6-adoption, then click Publish branch (or Push origin if already published). If needed, use File > Add Local Repository and select this folder. Verify the files and latest commit appear on GitHub before submission.
+The private repository exists at https://github.com/mp7240-sudo/MASY1800-Emerging-Technology-Adoption-Agent . The student reported pushing origin on October 27, 2026; the local branch tracks origin/assignment-6-adoption. The new self-reflection update requires a subsequent push. In GitHub Desktop select this local repository and branch assignment-6-adoption, then click Publish branch (or Push origin if already published). If needed, use File > Add Local Repository and select this folder. Verify the files and latest commit appear on GitHub before submission.
 
 ## Submit
 

@@ -136,3 +136,9 @@ I agree with the staged approach: verify prerequisites, then isolated testing. T
 ### AI / verification note
 
 ChatGPT generated the five supplied responses; Codex specialized the scaffold, prepared packets, preserved answers, diagnosed weaknesses, revised instructions and ran checks. Original public sources were checked during preparation, with applicability limits recorded. Model-reported independent browsing was not independently observed. I confirmed the staged judgment; AI helped organize its explanation.
+
+## F Self Reflection
+
+This assignment helped me distinguish being interested in a technology from being ready to use it. I agree that the conservative bank should verify its owner, resources and testing environment before starting a synthetic proof of concept. A leading-edge posture can justify moving faster, but it cannot make missing evidence or unverified safeguards disappear. I also became more careful about treating human review as something to test rather than assuming that keeping an advisor involved automatically makes the workflow safe.
+
+The most useful lesson came from comparing the first outputs. Both described similar conditions, but one labeled the action PROOF OF CONCEPT and the other DEFER. Although both passed structural validation, the difference could confuse a management decision. Revising the instructions showed me why clear categories and explicit progression conditions matter. In future evaluations, I would compare simpler alternatives, preserve weak outputs, and look for evidence of benefit and effective controls before recommending client exposure.
