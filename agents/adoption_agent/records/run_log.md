@@ -23,3 +23,7 @@ Archived original configuration and packets in records/version_0_1/. Added curre
 ## Primary v0.2 retest
 
 Received October 27, 2026 as a user-pasted response; saved unchanged as responses/primary_response_v2.json. Original validator PASSED; core INTACT. Model label and fresh-conversation/browsing conditions were not independently observed. Review in primary_retest_v2.md records clearer current-stage categorization and no observed development-workflow leakage. Cross-context correction is not yet established; contrast_1 v0.2 remains pending.
+
+## Contrast 1 v0.2 retest
+
+Received October 27, 2026 as a user-pasted response, saved unchanged as responses/contrast_1_response_v2.json. Original validator PASSED. Model identity, fresh-conversation independence and browsing history were not independently observed. Both revised cases choose DEFER with conditional later stages; field contamination was not observed. Leading-edge contrast proposes faster prerequisite review. See contrast_1_retest_v2.md for limits. Supplementary readiness contrast remains pending.
